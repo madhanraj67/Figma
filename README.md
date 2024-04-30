@@ -1,5 +1,5 @@
-# Ex09 Event Registration Web Application
-## Date:
+![WhatsApp Image 2024-04-30 at 10 56 09_07372c11](https://github.com/madhanraj67/Figma/assets/150319515/cecbdb3a-6ae3-4ba0-8e43-ba59bc94acbf)# Ex09 Event Registration Web Application
+## Date:30:04:2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,6 +33,9 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
+![figma](https://github.com/madhanraj67/Figma/assets/150319515/df252fb0-9d88-4c86-9e2a-51851a0962ed)
+
+
 
 
 ## RESULT:
