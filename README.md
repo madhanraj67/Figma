@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-04-30 at 10 56 09_07372c11](https://github.com/madhanraj67/Figma/assets/150319515/cecbdb3a-6ae3-4ba0-8e43-ba59bc94acbf)# Ex09 Event Registration Web Application
 ## Date:30:04:2024
 
 ## AIM:
